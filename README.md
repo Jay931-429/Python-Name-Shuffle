@@ -1,1 +1,1 @@
-This python program outputs a number of names in a text file in a random order
+This python program shuffles a number of names in a text file and outouts the said names in a random order.
